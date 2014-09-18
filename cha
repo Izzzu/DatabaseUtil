@@ -1,0 +1,32 @@
+ID_ANS ANSWER                                                                                         ID_SIT CHATLEVEL PREVSTATNOTE ID_EXPATYP 
+------ ---------------------------------------------------------------------------------------------- ------ --------- ------------ ---------- 
+0      Gratulacje. Czy wszystko przebiega pomyœlnie?                                                  10     4         0            1          
+1      To œwietnie. <askmoodok>                                                                       0      5         1            2          
+2      To dobrze. <askmoodok>                                                                         0      5         1            2          
+3      Cieszê siê. <askmoodok>                                                                        0      5         1            2          
+4      To dla Ciebie z pewnoœci¹ bardzo stresuj¹ce. Czego obawiasz siê najbardziej?                   0      5         0            2          
+5      Wspó³czujê. Czego obawiasz siê najbardziej?                                                    0      5         0            2          
+6      To dla Ciebie z pewnoœci¹ bardzo trudne. Czego obawiasz siê najbardziej?                       0      5         0            2          
+7      Czego obawiasz siê najbardziej?                                                                0      5         0            2          
+8      Czego siê obawiasz?                                                                            0      5         0            2          
+9      To normalne ¿e siê boisz. Masz kogoœ kto Ciê wspiera?                                          0      6         0            1          
+10     Strach jest normalny w takiej sytuacji. Masz kogoœ kto Ciê wspiera?                            0      6         0            1          
+11     To zrozumia³e ¿e siê boisz. Jest ktoœ kto Ciê wspiera?                                         0      6         0            1          
+12     Strach jest normalny w takiej sytuacji. Masz kogoœ kto Ciê wspiera?                            0      6         1            1          
+13     To zrozumia³e ¿e siê boisz. Jest ktoœ kto Ciê wspiera?                                         0      6         1            1          
+14     To normalne ¿e siê boisz. Masz kogoœ kto Ciê wspiera?                                          0      6         1            1          
+15     Choroby siê zdarzaj¹. Mo¿e nie warto martwiæ siê na zapas?                                     10     6         1            1          
+16     Choroby siê zdarzaj¹. Nie ma sensu martwiæ siê na zapas.                                       0      6         1            1          
+17     Na pewno wszystko bêdzie dobrze. Niepotrzebnie siê martwisz.                                   0      6         1            1          
+18     Na pewno wszystko bêdzie dobrze. Martwisz siê na zapas.                                        0      6         1            1          
+19     Na pewno wszystko bêdzie dobrze. G³owa do góry.                                                0      6         1            1          
+20     Choroby siê zdarzaj¹. Na pewno wszystko bêdzie dobrze.                                         0      6         1            1          
+21     Na pewno wszystko bêdzie dobrze. Masz kogoœ kto móg³by Ci pomóc?                               0      6         2            1          
+22     Na pewno wszystko bêdzie dobrze. Mo¿e warto poprosiæ kogoœ o wsparcie?                         0      6         2            1          
+23     Masz kogoœ kto móg³by Ci w tej sytuacji pomóc?                                                 0      6         2            1          
+24     Mo¿e warto w tej sytuacji poprosiæ kogoœ o wsparcie?                                           0      6         2            1          
+25     Zastanów siê czy na pewno nie wyolbrzymiasz sytuacji. Mo¿e nie jest tak Ÿle jak Ci siê wydaje? 0      6         2            1          
+26     Zastanów siê czy na pewno nie wyolbrzymiasz sytuacji. Mo¿e nie jest tak Ÿle jak Ci siê wydaje? 0      6         2            1          
+27     Pomyœl jak rozwi¹zaæ tê sytuacjê. Mo¿e nie jest tak Ÿle jak Ci siê wydaje?                     0      6         2            1          
+28     Na pewno wszystko bêdzie dobrze. Mo¿e nie jest tak Ÿle jak Ci siê wydaje?                      0      6         2            1          
+29     Pomyœl jak rozwi¹zaæ tê sytuacjê. Masz kogoœ kto móg³by Ci pomóc?                              10     6         2            1          
