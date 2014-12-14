@@ -1,9 +1,9 @@
-﻿Interesujące. 6
+﻿Interesujące. 0
 Świetnie._Na_pewno_się_bardzo_cieszysz. 7
 Świetnie._Na_pewno_się_bardzo_cieszysz. 6
 Świetnie. 6
 Wspaniała_wiadomość. 6
-Opowiedz_coś_więcej. 6
+Opowiedz_coś_więcej. 0
 Mam_nadzieję,_że_się_cieszysz. 6
 Mam_nadzieję,_że_się_cieszysz. 7
 Wygląda_na_to,_że_tryskasz_szczęściem. 7
@@ -49,5 +49,17 @@ Może_nie_jest_tak_źle_jak_Ci_się_wydaje? 4
 Zastanów_się_czy_na_pewno_nie_wyolbrzymiasz_sytuacji. 5
 Pomyśl_jak_rozwiązać_tę_sytuację. 3
 Na_pewno_wszystko_będzie_dobrze. 4
+Nie_jest_Ci_chyba_z_tym_wszystkim_łatwo? 2
+Wydajesz się być bardzo wzburzon<genre_adj>, gdy mówisz o tej sprawie. 5
+Wyczuwam_żal_w_Twojej_wypowiedzi._Mam_rację? 4
+Wyczuwam_żal_w_Twojej_wypowiedzi._Mam_rację? 3
+Z_tego_co_mówisz_wynika_że_to__dla_Ciebie_bardzo_trudna_sytuacja. 2
+Czy_masz_ochotę_powiedzieć_coś_więcej? 0
+Dziękuję,_że_się_ze_mną_tym_podzielił<genre_verb>. 0
+Uważam,_że_to_świetnie,_że_się_ze_mną_tym_podzielił<genre_verb>. 0
+Mów_dalej. 0
+Kontunuuj_proszę. 0
+
+
 
 
